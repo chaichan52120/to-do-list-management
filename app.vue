@@ -1,5 +1,3 @@
-<template>
-  <div>
-    <NuxtWelcome />
-  </div>
+<template lang="pug">
+router-view
 </template>
